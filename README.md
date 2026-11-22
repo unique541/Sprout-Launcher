@@ -65,5 +65,4 @@ docs/                构建说明与界面截图
 
 ## 说明
 
-- 本项目为个人开发者自用与分享性质，与 Mojang / Microsoft 无关联。
-- 使用需自备正版 Minecraft 账号。
+ 本项目为个人开发者自用与分享性质，与 Mojang / Microsoft 无关联。
